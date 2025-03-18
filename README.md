@@ -22,7 +22,7 @@ This section lists issues that I have identified and reported, along with reposi
 ### Issues:
 | Repository | Issue | Reproduction Repository |
 |------------|-------|-------------------------|
-| (scapy)[https://github.com/secdev/scapy] | [TCP out of order segments ack not received in srp1](https://github.com/secdev/scapy/issues/4696) | [scapy-tcp-reorder](https://github.com/imvtsl/scapy-tcp-reorder) |
+| [scapy](https://github.com/secdev/scapy) | [TCP out of order segments ack not received in srp1](https://github.com/secdev/scapy/issues/4696) | [scapy-tcp-reorder](https://github.com/imvtsl/scapy-tcp-reorder) |
 
 ---
 Feel free to explore the links and see my work in detail!
