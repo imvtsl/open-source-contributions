@@ -3,7 +3,7 @@
 This repository showcases my contributions to various open-source projects. It is divided into two sections:
 
 ## 1. Contributions to Issues
-In this section, I have contributed to issues created by other developers. Each entry provides a link to the issue and my corresponding pull request.
+In this section, I have listed my contribution to issues. Each entry provides a link to the issue and my corresponding pull request.
 
 ### Contributions:
 | Repository | Issue | Pull Request |  Comments |
