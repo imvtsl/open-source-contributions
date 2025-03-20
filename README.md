@@ -1,9 +1,9 @@
 # My Open Source Contributions
 
-This repository showcases my contributions to various open-source projects. It is divided into two sections:
+This repository showcases some of my prominent contributions to various open-source projects. While these represent a selection of my work, I have contributed to additional issues and pull requests across other repositories, further demonstrating my ongoing engagement and collaboration with the open-source community. The repository is divided into two sections:
 
 ## 1. Contributions to Issues
-In this section, I have listed my contribution to issues. Each entry provides a link to the issue and my corresponding pull request.
+In this section, I have listed some of my PRs to a few issues. Each entry provides a link to the issue and my corresponding pull request.
 
 ### Contributions:
 | Repository | Issue | Pull Request | Status |  Comments |
